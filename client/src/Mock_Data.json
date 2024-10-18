@@ -1,0 +1,476 @@
+{
+    "laptops": {
+        "components": [
+            {
+                "name": "Heavy Metals",
+                "data": "Laptops may contain heavy metals such as lead, cadmium, and mercury. These metals can be toxic and pose environmental risks if they leach into the soil or water."
+            },
+            {
+                "name": "Batteries",
+                "data": "Most laptops are equipped with lithium-ion batteries, which can pose fire hazards if damaged or improperly disposed of."
+            },
+            {
+                "name": "Plastics",
+                "data": "The plastic casings of laptops can contain harmful chemicals, including brominated flame retardants, which can be hazardous to human health and the environment."
+            },
+            {
+                "name": "Circuit Boards",
+                "data": "Laptops contain printed circuit boards (PCBs) that may have heavy metals and other hazardous materials."
+            }
+        ],
+        "recovered_items": [
+            {
+                "name": "Metals",
+                "data": "aluminum, copper, and steel"
+            },
+            {
+                "name": "Circuit Boards",
+                "data": "gold, silver, and palladium"
+            },
+            {
+                "name": "Batteries",
+                "data": "lithium and other valuable metals"
+            },
+            {
+                "name": "Plastic",
+                "data": "can be recycled into new products"
+            }
+        ]
+    },
+    "computers": {
+        "components": [
+            {
+                "name": "Heavy Metals",
+                "data": "PCs may contain heavy metals like lead, mercury, and cadmium, which can pose health risks if not disposed of properly."
+            },
+            {
+                "name": "Brominated Flame Retardants",
+                "data": "BFRs are often used in the plastic casings and circuit boards of PCs to reduce fire risk, but these chemicals can be harmful to the environment."
+            },
+            {
+                "name": "Power Supply Units",
+                "data": "The power supply units may contain hazardous materials and should be handled carefully during disposal."
+            }
+        ],
+        "recovered_items": [
+            {
+                "name": "Circuit Boards",
+                "data": "gold, silver, and copper"
+            },
+            {
+                "name": "Hard Drives",
+                "data": "aluminum, glass, and precious metals"
+            },
+            {
+                "name": "Power Supply",
+                "data": "copper and aluminum"
+            },
+            {
+                "name": "Plastic",
+                "data": "can be recycled"
+            }
+        ]
+    },
+    "smartphones": {
+        "components": [
+            {
+                "name": "Batteries",
+                "data": "Smartphones typically use lithium-ion batteries, which can pose fire and environmental hazards if not handled correctly."
+            },
+            {
+                "name": "Heavy Metals",
+                "data": "Smartphones can contain heavy metals such as lead, cadmium, and mercury in their components, which can be harmful to human health and the environment."
+            },
+            {
+                "name": "Rare Earth Elements",
+                "data": "Smartphones often contain rare earth elements, which are essential for their functionality but can have significant environmental impacts if not recycled properly."
+            }
+        ],
+        "recovered_items": [
+            {
+                "name": "Batteries",
+                "data": "lithium and cobalt"
+            },
+            {
+                "name": "Metals",
+                "data": "gold, silver, and copper from circuit boards"
+            },
+            {
+                "name": "Plastics",
+                "data": "can be recycled"
+            },
+            {
+                "name": "Glass",
+                "data": "from screens"
+            }
+        ]
+    },
+    "printers": {
+        "components": [
+            {
+                "name": "Heavy Metals",
+                "data": "Printers may contain heavy metals such as lead, cadmium, and mercury, posing health risks if not disposed of properly."
+            },
+            {
+                "name": "Ink Cartridges",
+                "data": "Ink cartridges can contain hazardous materials and should be recycled correctly."
+            },
+            {
+                "name": "Brominated Flame Retardants",
+                "data": "These are often used in the plastic components of printers."
+            }
+        ],
+        "recovered_items": [
+            {
+                "name": "Metals",
+                "data": "copper and aluminum"
+            },
+            {
+                "name": "Circuit Boards",
+                "data": "gold and silver"
+            },
+            {
+                "name": "Plastic",
+                "data": "can be recycled"
+            },
+            {
+                "name": "Ink",
+                "data": "can be reclaimed"
+            }
+        ]
+    },
+    "hard_disks": {
+        "components": [
+            {
+                "name": "Neodymium Magnets",
+                "data": "HDDs contain powerful neodymium magnets, which can be dangerous if mishandled."
+            },
+            {
+                "name": "Electronics Components",
+                "data": "HDDs contain various electronic components like circuit boards, chips, and capacitors that may have hazardous materials."
+            },
+            {
+                "name": "Brominated Flame Retardants",
+                "data": "BFRs are often used in the plastics and circuit boards of HDDs."
+            }
+        ],
+        "recovered_items": [
+            {
+                "name": "Platters",
+                "data": "aluminum, glass"
+            },
+            {
+                "name": "Circuit Boards (PCBs)",
+                "data": "electronic components like controller and memory chips"
+            },
+            {
+                "name": "Actuator Arms",
+                "data": "aluminum and rare earth magnets"
+            },
+            {
+                "name": "Precious Metals",
+                "data": "gold and palladium"
+            },
+            {
+                "name": "Steel and Aluminum Casings",
+                "data": "steel or aluminum"
+            }
+        ]
+    },
+    "ram_chips": {
+        "components": [
+            {
+                "name": "Silicon Chips",
+                "data": "RAM chips contain silicon, which is abundant but requires energy-intensive extraction and processing."
+            },
+            {
+                "name": "Heavy Metals",
+                "data": "Some RAM chips may contain heavy metals like lead and cadmium."
+            },
+            {
+                "name": "Brominated Flame Retardants",
+                "data": "BFRs can also be found in the casings and components of RAM."
+            }
+        ],
+        "recovered_items": [
+            {
+                "name": "Silicon",
+                "data": "can be recycled for new chips"
+            },
+            {
+                "name": "Metals",
+                "data": "copper and aluminum from the circuit boards"
+            },
+            {
+                "name": "Gold",
+                "data": "from the connectors"
+            },
+            {
+                "name": "Plastic",
+                "data": "can be recycled"
+            }
+        ]
+    },
+    "ac": {
+        "components": [
+            {
+                "name": "Refrigerants",
+                "data": "Air conditioners use refrigerants that can deplete the ozone layer if released."
+            },
+            {
+                "name": "Compressor Oil",
+                "data": "Contains hazardous chemicals and should be carefully managed."
+            },
+            {
+                "name": "Electrical Components",
+                "data": "Various electronic components may contain hazardous materials."
+            }
+        ],
+        "recovered_items": [
+            {
+                "name": "Copper and Aluminum",
+                "data": "from coils"
+            },
+            {
+                "name": "Compressor",
+                "data": "contains valuable metals"
+            }
+        ]
+    },
+    "tv": {
+        "components": [
+            {
+                "name": "Heavy Metals",
+                "data": "Televisions may contain heavy metals such as lead and mercury, which can be harmful to health and the environment."
+            },
+            {
+                "name": "Brominated Flame Retardants",
+                "data": "BFRs are often used in the casings and circuit boards of TVs."
+            },
+            {
+                "name": "LCD Panels",
+                "data": "LCD screens contain hazardous materials, including mercury."
+            }
+        ],
+        "recovered_items": [
+            {
+                "name": "Metals",
+                "data": "aluminum, copper, and precious metals from circuit boards"
+            },
+            {
+                "name": "Glass",
+                "data": "from screens"
+            },
+            {
+                "name": "Plastic",
+                "data": "can be recycled"
+            }
+        ]
+    },
+    "fridge": {
+        "components": [
+            {
+                "name": "Refrigerants",
+                "data": "Refrigerators contain refrigerants that can be harmful to the environment if released."
+            },
+            {
+                "name": "Heavy Metals",
+                "data": "Fridges may contain heavy metals like lead and mercury."
+            },
+            {
+                "name": "Insulation Foam",
+                "data": "Some refrigerators contain insulation foam that can release harmful chemicals."
+            }
+        ],
+        "recovered_items": [
+            {
+                "name": "Metals",
+                "data": "copper and aluminum"
+            },
+            {
+                "name": "Compressor",
+                "data": "contains valuable metals"
+            },
+            {
+                "name": "Plastic",
+                "data": "can be recycled"
+            }
+        ]
+    },
+    "washing_machine": {
+        "components": [
+            {
+                "name": "Heavy Metals",
+                "data": "Washing machines may contain heavy metals such as lead and cadmium."
+            },
+            {
+                "name": "Electrical Components",
+                "data": "Washing machines contain various electronic components that may have hazardous materials."
+            },
+            {
+                "name": "Brominated Flame Retardants",
+                "data": "These are often used in the plastic components."
+            }
+        ],
+        "recovered_items": [
+            {
+                "name": "Metals",
+                "data": "copper and aluminum"
+            },
+            {
+                "name": "Plastic",
+                "data": "can be recycled"
+            },
+            {
+                "name": "Glass",
+                "data": "from the door"
+            }
+        ]
+    },
+    "fluorescent_lamps": {
+        "components": [
+            {
+                "name": "Mercury",
+                "data": "Fluorescent lamps contain small amounts of mercury, which is hazardous."
+            },
+            {
+                "name": "Phosphor Coating",
+                "data": "The phosphor coating inside lamps can be hazardous if broken."
+            },
+            {
+                "name": "Glass",
+                "data": "The glass can be broken and should be handled carefully."
+            }
+        ],
+        "recovered_items": [
+            {
+                "name": "Glass",
+                "data": "can be recycled"
+            },
+            {
+                "name": "Metals",
+                "data": "from the end caps"
+            },
+            {
+                "name": "Phosphor Powder",
+                "data": "can be reclaimed"
+            }
+        ]
+    },
+    "router": {
+        "components": [
+            {
+                "name": "Heavy Metals",
+                "data": "Routers may contain heavy metals like lead and cadmium."
+            },
+            {
+                "name": "Plastic Components",
+                "data": "The plastic casing and internal components can contain harmful chemicals."
+            },
+            {
+                "name": "Brominated Flame Retardants",
+                "data": "BFRs are often used in routers."
+            }
+        ],
+        "recovered_items": [
+            {
+                "name": "Metals",
+                "data": "copper and aluminum"
+            },
+            {
+                "name": "Circuit Boards",
+                "data": "gold and silver"
+            },
+            {
+                "name": "Plastic",
+                "data": "can be recycled"
+            }
+        ]
+    },
+    "batteries": {
+        "components": [
+            {
+                "name": "Lead-Acid Batteries",
+                "data": "Lead-acid batteries contain lead and sulfuric acid, which can be harmful to health and the environment."
+            },
+            {
+                "name": "Lithium-Ion Batteries",
+                "data": "These batteries can pose fire hazards if damaged and contain hazardous materials."
+            },
+            {
+                "name": "Nickel-Cadmium Batteries",
+                "data": "Nickel-cadmium batteries contain cadmium, a toxic heavy metal."
+            }
+        ],
+        "recovered_items": [
+            {
+                "name": "Lead",
+                "data": "from lead-acid batteries"
+            },
+            {
+                "name": "Lithium",
+                "data": "from lithium-ion batteries"
+            },
+            {
+                "name": "Nickel",
+                "data": "from nickel-cadmium batteries"
+            },
+            {
+                "name": "Cobalt",
+                "data": "from lithium batteries"
+            }
+        ]
+    },
+    "wires": {
+        "components": [
+            {
+                "name": "Copper Wires",
+                "data": "Copper wires are commonly used in electrical applications and can be recycled."
+            },
+            {
+                "name": "Insulation Materials",
+                "data": "The plastic insulation can contain harmful chemicals."
+            }
+        ],
+        "recovered_items": [
+            {
+                "name": "Copper",
+                "data": "can be recycled"
+            },
+            {
+                "name": "Plastic",
+                "data": "can be recycled"
+            }
+        ]
+    },
+    "circuit_boards": {
+        "components": [
+            {
+                "name": "Heavy Metals",
+                "data": "Circuit boards may contain heavy metals such as lead, gold, and silver."
+            },
+            {
+                "name": "Brominated Flame Retardants",
+                "data": "BFRs are commonly used in the manufacturing of circuit boards."
+            }
+        ],
+        "recovered_items": [
+            {
+                "name": "Gold",
+                "data": "can be extracted from circuit boards"
+            },
+            {
+                "name": "Silver",
+                "data": "can be extracted from circuit boards"
+            },
+            {
+                "name": "Copper",
+                "data": "can be recycled"
+            },
+            {
+                "name": "Plastic",
+                "data": "can be recycled"
+            }
+        ]
+    }
+}
